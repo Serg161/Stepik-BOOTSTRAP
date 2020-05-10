@@ -1,4 +1,4 @@
-# Stepik-BOOTSTRAP
+# Stepik__BOOTSTRAP
 Учебный проект
 
 
